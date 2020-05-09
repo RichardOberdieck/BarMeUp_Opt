@@ -1,0 +1,896 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350) (preloaded format=pdflatex 2020.4.28)  9 MAY 2020 19:08
+entering extended mode
+**./description.tex
+(description.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (General_Praeambel_v1.4.tex
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amscls/amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks20
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsfonts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsmath/amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen135
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsmath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsmath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks23
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks24
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks25
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+booktabs/booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count187
+\@cmidlb=\count188
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count189
+\@lastruleclass=\count190
+\@thisrulewidth=\dimen156
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+multirow/multirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count191
+\multirow@dima=\skip56
+\bigstrutjot=\dimen157
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+tools/array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box47
+\extrarowheight=\dimen159
+\NC@list=\toks27
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box48
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgfplots/pgfplots.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.revision.tex")
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/frontendlayer/tikz.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/basiclayer/pgf.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/utilities/pgfrcs.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfutil-common.tex"
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfutil-common-lists.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfutil-latex.def"
+\pgfutil@abb=\box49
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+ms/everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfrcs.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/basiclayer/pgfcore.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/systemlayer/pgfsys.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count192
+\c@pgf@countb=\count193
+\c@pgf@countc=\count194
+\c@pgf@countd=\count195
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count196
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count197
+\pgfsyssoftpath@bigbuffer@items=\count198
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/systemlayer/pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+xcolor/xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmath.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathcalc.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathutil.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count199
+\pgfmath@box=\box50
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.basic.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.trigonometric.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.random.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.comparison.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.base.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.round.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.misc.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfunctions.integerarithmetics.code.tex")))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count266
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfint.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count267
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen193
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen197
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count268
+\pgf@shadingcount=\count269
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box54
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/basiclayer/pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/modules/pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box55
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/modules/pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/compatibility/pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/compatibility/pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/utilities/pgffor.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/utilities/pgfkeys.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgfkeys.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+pgf/math/pgfmath.sty"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmath.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/utilities/pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/math/pgfmath.code.tex")
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/libraries/pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count270
+\pgfplotmarksize=\dimen259
+)
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count271
+\tikznumberofchildren=\count272
+\tikznumberofcurrentchild=\count273
+\tikz@fig@count=\count274
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/modules/pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count275
+\pgfmatrixcurrentcolumn=\count276
+\pgf@matrix@numberofcolumns=\count277
+)
+\tikz@expandcount=\count278
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotscore.code.tex"
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen268
+\c@pgfplots@coordindex=\count279
+\c@pgfplots@scanlineindex=\count280
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/sys/pgfplotssysgeneric.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/libs/pgfplotslibrary.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/libraries/pgflibraryfpu.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotsutil.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/liststructure/pgfplotsliststructure.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/liststructure/pgfplotsliststructureext.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/liststructure/pgfplotsarray.code.tex"
+\c@pgfplotsarray@tmp=\count281
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/liststructure/pgfplotsmatrix.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/numtable/pgfplotstableshared.code.tex"
+\c@pgfplotstable@counta=\count282
+\t@pgfplotstable@a=\toks44
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/liststructure/pgfplotsdeque.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotsbinary.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotsbinary.data.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotsutil.verb.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex"
+\c@pgfplotslibrarysurf@no=\count283
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def")))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotscolormap.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/util/pgfplotscolor.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotsstackedplots.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotsplothandlers.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotsmeshplothandler.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotsmeshplotimage.code.tex")))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.scaling.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotscoordprocessing.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.errorbars.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.markers.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplotsticks.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgfplots/pgfplots.paths.code.tex")
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/modules/pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen269
+\pgfdecoratedremainingdistance=\dimen270
+\pgfdecoratedinputsegmentcompleteddistance=\dimen271
+\pgfdecoratedinputsegmentremainingdistance=\dimen272
+\pgf@decorate@distancetomove=\dimen273
+\pgf@decorate@repeatstate=\count284
+\pgfdecorationsegmentamplitude=\dimen274
+\pgfdecorationsegmentlength=\dimen275
+)
+\tikz@lib@dec@box=\box60
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex"))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.te
+x"
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count285
+\pgfplots@xmin@reg=\dimen276
+\pgfplots@xmax@reg=\dimen277
+\pgfplots@ymin@reg=\dimen278
+\pgfplots@ymax@reg=\dimen279
+\pgfplots@zmin@reg=\dimen280
+\pgfplots@zmax@reg=\dimen281
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pgf/libraries/pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+doublestroke/dsfont.sty"
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+jknappen/mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+algorithms/algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+float/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks45
+\float@box=\box61
+\@float@everytoks=\toks46
+\@floatcapt=\box62
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks47
+\c@algorithm=\count287
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+algorithmicx/algpseudocode.sty"
+Package: algpseudocode 
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+algorithmicx/algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count288
+\c@ALG@rem=\count289
+\c@ALG@nested=\count290
+\ALG@tlm=\skip59
+\ALG@thistlm=\skip60
+\c@ALG@Lnr=\count291
+\c@ALG@blocknr=\count292
+\c@ALG@storecount=\count293
+\c@ALG@tmpcounter=\count294
+\ALG@tmplength=\skip61
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+comment/comment.sty"
+\CommentStream=\write4
+ Excluding comment 'comment')
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+caption/subcaption.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+caption/caption.sty"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+caption/caption3.sty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen282
+\captionmargin@=\dimen283
+\captionwidth=\dimen284
+\caption@tempdima=\dimen285
+\caption@indent=\dimen286
+\caption@parindent=\dimen287
+\caption@hangindent=\dimen288
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count297
+\c@subtable=\count298
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+tools/longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip62
+\LTright=\skip63
+\LTpre=\skip64
+\LTpost=\skip65
+\LTchunksize=\count299
+\LTcapwidth=\dimen289
+\LT@head=\box63
+\LT@firsthead=\box64
+\LT@foot=\box65
+\LT@lastfoot=\box66
+\LT@cols=\count300
+\LT@rows=\count301
+\c@LT@tables=\count302
+\c@LT@chunks=\count303
+\LT@p@ftn=\toks48
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+listings/listings.sty"
+\lst@mode=\count304
+\lst@gtempboxa=\box67
+\lst@token=\toks49
+\lst@length=\count305
+\lst@currlwidth=\dimen290
+\lst@column=\count306
+\lst@pos=\count307
+\lst@lostspace=\dimen291
+\lst@width=\dimen292
+\lst@newlines=\count308
+\lst@lineno=\count309
+\lst@maxwidth=\dimen293
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+listings/lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count310
+\lst@skipnumbers=\count311
+\lst@framebox=\box68
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+listings/listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\c@rem=\count312
+\c@thm=\count313
+\c@defn=\count314
+\c@lem=\count315
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+l3backend/l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count316
+\l__pdf_internal_box=\box69
+) (description.aux)
+\openout1 = `description.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/contex
+t/base/mkii/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count317
+\scratchdimen=\dimen294
+\scratchbox=\box70
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen295
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks51
+)
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+epstopdf-pkg/epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) ABD: EveryShipout initializing macros
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+caption/ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count323
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 7.
+
+
+("/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+jknappen/ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+{/Users/oberdieck/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/
+pdftex.map}] (description.aux) ) 
+Here is how much of TeX's memory you used:
+ 26015 strings out of 482859
+ 650948 string characters out of 2950574
+ 954630 words of memory out of 3000000
+ 41211 multiletter control sequences out of 15000+200000
+ 541229 words of font info for 61 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 71i,6n,100p,764b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Users/oberdieck/Library/Application Support/M
+iKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/oberdiec
+k/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></Users/oberdieck/Library/Application Support/MiKTeX/texmfs/inst
+all/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/oberdieck/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></U
+sers/oberdieck/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></Users/oberdieck/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/oberdieck/Libr
+ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on description.pdf (1 page, 89220 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

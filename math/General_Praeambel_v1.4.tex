@@ -1,0 +1,127 @@
+%% Packages
+%\usepackage{lmodern}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{pgfplots}
+\usepackage{pgffor}
+\pgfplotsset{compat=1.9}
+\usepackage{dsfont}
+\usepackage{mathrsfs}
+%\usepackage{algorithmic,algorithm}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{comment}
+\usepackage{lscape}
+\usepackage{ifthen}
+\usepackage{subcaption}
+\usepackage{longtable}
+\usepackage{comment}
+\usepackage{listings}
+%% New Commands
+
+% Equations
+\newcommand{\ali}[1]{\begin{align} #1 \end{align}} %align-environment
+\newcommand{\alin}[1]{\begin{align*} #1 \end{align*}} %align-environment without numbering
+\newcommand{\alil}[2]{\begin{align}\label{#1} #2 \end{align}} %align-environment with label (for 1-line eqs.)
+
+\newcommand{\problem}[5]{\setlength{\arraycolsep}{0.0em}
+\begin{equation}\label{#1}
+\begin{array}{ll} 
+#5 = \hspace*{0.1cm} & \underset{#2}{\min}  \hspace{0.15cm}#3\\ 
+\text{s.t.} & #4 
+\end{array}\end{equation}}
+
+\newcommand{\MPCproblem}[5]{\begin{equation}\label{#1}
+\begin{array}{ll} 
+\underset{#2}{\min}  &\hspace{0.15cm}#3\\ 
+\text{s.t.} & #4 
+\end{array}\end{equation}}
+
+% Sum and Limit
+\newcommand{\smlm}[3]{\sum \limits_{#1}^{#2} #3 } %sum with limits #1 and #2
+\newcommand{\itlm}[4]{\int \limits_{#1}^{#2} #3 \df #4} %int #3 with limits #1 and #2 and differential #4
+\newcommand{\mini}[2]{\min \limits_{#1} #2 } %Minimum with #1 as limit and #2 as argument
+\newcommand{\mxl}[2]{\max \limits_{#1} #2 } %Maximum with #1 as limit and #2 as argument
+\newcommand{\abso}[1]{\left| #1 \right|}
+
+% Brackets and Vector
+\newcommand{\sbr}[1]{\left[#1\right]} %square brackets
+\newcommand{\rbr}[1]{\left(#1\right)} %round brackets
+\newcommand{\vect}[1]{\rbr{\begin{array}{c} #1 \end{array}}} %General vector with entry #1
+\newcommand{\vectsq}[1]{\begin{bmatrix} #1 \end{bmatrix}}
+
+% Table
+\newcommand{\otoprule}{\midrule [\heavyrulewidth]} %From Martina
+\newcommand{\tbl}[5]{\begin{table}[!htb]\caption{#1}\label{#2}\centering\begin{tabular}{#3}\toprule #4 \\ \otoprule #5\\ \bottomrule\end{tabular}\end{table}} %General definition of a table: #1:caption, #2:label, #3:column definition, #4:header, #5:main body
+\newcommand{\longtbl}[5]{\begin{longtable}[!htb]{#3}\caption{#1}\label{#2}\centering \toprule #4 \\ \otoprule #5\\ \bottomrule\end{longtable}} %General definition of a table: #1:caption, #2:label, #3:column definition, #4:header, #5:main body
+\newcommand{\tblt}[5]{\begin{table*}[!htb]\caption{#1}\label{#2}\centering\begin{tabular}{#3}\toprule #4 \\ \otoprule #5\\ \bottomrule\end{tabular}\end{table*}} %General definition of a table: #1:caption, #2:label, #3:column definition, #4:header, #5:main body
+\newcommand{\newcr}[3]{$#1$ && $X = \rbr{#2}$ \newline $Y = \sbr{#3}^T$\\}
+
+% Differential
+\newcommand{\df}{\text{d}}
+\newcommand{\dff}[2]{\frac{\text{d} #1}{\text{d} #2}}
+\newcommand{\dffz}[2]{\frac{\text{d}^2 #1}{\text{d} #2 ^2}}
+\newcommand{\pdff}[2]{\frac{\partial #1}{\partial #2}} %Partial differential
+\newcommand{\pdffz}[2]{\frac{\partial^2 #1}{\partial #2 ^2}} %Second partial differential
+
+% Mathematical Spaces
+\newcommand{\spacen}[1]{\operatorname{\mathbb{#1}}} %Mathematical space like R, C, K etc.
+\newcommand{\spaceo}[2]{\operatorname{\mathbb{#1}}^{#2}} %Mathematical space like R^n, C^m etc.
+\newcommand{\spacet}[3]{\operatorname{\mathbb{#1}}^{#2 \times #3}} %Mathematical space like R^{nxn}, C^{mxn} etc.
+
+% Figures
+\newcommand{\fig}[2]{\begin{figure}[!htb]\centering \includegraphics[width = #1 \textwidth]{#2} \end{figure}} %Figure without label or caption
+\newcommand{\figc}[4]{\begin{figure}[!htp]\centering \includegraphics[width = #1 \textwidth]{#2} \caption{#3}\label{#4} \end{figure}} %Figure with label and caption
+
+% Curly Array Brackets
+\newcommand{\lftcur}[2]{\left\{ \begin{array}{#1} #2 \end{array}\right.} %#1 is the column structure and #2 the entries
+\newcommand{\rgtcur}[2]{\left. \begin{array}{#1} #2 \end{array}\right\} } %#1 is the column structure and #2 the entries
+\newcommand{\lrcur}[2]{\left\{ \begin{array}{#1} #2 \end{array}\right\} } %#1 is the column structure and #2 the entries
+
+%% New Theorems
+\theoremstyle{remark}
+\newtheorem{rem}{Remark}
+\newtheorem*{pf}{Proof}
+\theoremstyle{definition}
+\newtheorem{thm}{Theorem}
+\newtheorem{defn}{Definition}
+\newtheorem{lem}{Lemma}
+
+%% Tikz stuff
+\newenvironment{customlegend}[1][]{%
+    \begingroup
+    \csname pgfplots@init@cleared@structures\endcsname
+    \pgfplotsset{#1}%
+}{%
+    \csname pgfplots@createlegend\endcsname
+    \endgroup
+}%
+\def\addlegendimage{\csname pgfplots@addlegendimage\endcsname}
+
+\newcommand{\addlegendimageintext}[1]{%
+    \tikz {
+        \begin{customlegend}[
+            legend entries={\empty},
+            legend style={
+                draw=none,
+                inner sep=0pt,
+                column sep=0pt,
+                nodes={inner sep=0pt}}]
+        \addlegendimage{#1}
+        \end{customlegend}
+    }%
+}
+
+% Define flow chart styles
+\tikzstyle{decision} = [diamond, shape aspect = 1.7, draw, align=center, node distance=3cm]
+\tikzstyle{block} = [rectangle, draw, text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse, node distance=3cm, minimum height=2em]
+
+%text width=4.5em, 

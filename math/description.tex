@@ -1,0 +1,22 @@
+\documentclass{article}
+\input{General_Praeambel_v1.4.tex}
+\author{Richard Oberdieck, Ruben Menke}
+\title{Math of BarMeUp}
+
+\begin{document}
+\maketitle
+
+\section{Background}
+BarMeUp is about using analytics and math programming to optimally stack your bar so that you get drunk. Kind of. Basically, we have a database of drinks and ingredients needed to make those drinks and then we ask this data various questions using math programming. That's it at least for now. Let's see what else we can do once we're done with this.
+
+First off though, we need to define the two main components:
+\begin{description}
+\item[Drink]{A drink $d$ is consisting of ingredients $i$ (with a needed quantity $q_i$) prepared in a specific way (let's say algorithm $a$). This will require a set of tools $t$. All of this information is stored and can be accessed to formulate an appropriate optimization problem.}
+\item[Ingredient]{An ingredient $i$ has a specific name as well as a cost, availability ("high", "medium" and "low") as well as usage speed (= how quickly it needs to be finished before it goes bad) in days.}
+\end{description}
+
+\rem{For now we will not go into the algorithms and tools needed for the drink, but that may be something to consider in the future.}
+
+So now we'll dive into the different questions we would like to have answered.
+
+\end{document}
