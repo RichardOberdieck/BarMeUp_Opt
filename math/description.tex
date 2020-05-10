@@ -19,4 +19,35 @@ First off though, we need to define the two main components:
 
 So now we'll dive into the different questions we would like to have answered.
 
+\section{Basic model}
+The most basic question is to minimize the number of ingredients to  be able to make $n$ cocktails. We assume that we have the following given:
+\begin{itemize}
+\item{A number of ingredients already present}
+\item{A maximum number $n$ of cocktails we would like to make}
+\end{itemize}
+
+\rem{This is kind of the easiest thing to answer, but we can extend thus arbitrarily.}
+
+This results in the following optimization problem:
+\begin{equation}\label{general1}
+\begin{array}{rl}
+\text{minimize} & \sum x_i \\
+\text{subject to} & \smlm{i\in I_d}{}{z_i} \geq \abso{I_d}y_d \\
+& z_i = x_i + p_i \\
+& \smlm{d}{}{y_d} = n \\
+& p_i = 1, \hspace{0.15cm} \text{if ingredient is present} \\
+& p_i = 0, \hspace{0.15cm} \text{if ingredient is not present} \\
+& x_i,y_d,z_i,p_i \in \{0,1\}
+\end{array}
+\end{equation}
+where $I_d$ is the set of ingredients needed to make drink $d$ and$\abso{\cdot}$ denotes the cardinality of a set.
+\subsection{Extensions of problem (\ref{general1})}
+The extensions that come to mind are the following:
+\begin{itemize}
+\item{I want to minimize my cost, not the number of ingredients}
+\item{I want to weight the ingredients by how quickly they have to be consumed.}
+\item{I want to know which long term items I should buy to build my bar up (and ignore the perishable ingredients). An extension of this could be to only consider perishable ingredients that are easily available.}
+\end{itemize}
+
+
 \end{document}
