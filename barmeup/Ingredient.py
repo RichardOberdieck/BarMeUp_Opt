@@ -15,7 +15,6 @@ class Ingredient:
 class Drink:
     name: str
     ingredients: [Ingredient]
-    tools: [Tool]
 
 
 class Availability(Enum):
@@ -23,6 +22,3 @@ class Availability(Enum):
     MEDIUM = 2,
     LOW = 3
 
-
-class Tool(Enum):
-    SHAKER = 1
