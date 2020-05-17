@@ -34,6 +34,9 @@ class ModelContainer:
     def enforce_number_of_drinks_makeable(self, n):
         self.model.add_constr(mip.xsum(self.y[d] for d in self.drinks) >= n, name="Enforce number of drinks makeable")
 
+    def enforce_existing_ingredients(self, i: Ingredient):
+        self.model.add_constr(self.p[i] == i.is_already_present, name=f'Check whether ingredient {i.name} is present')
+
     def solve(self):
         self.model.optimize()
         drinks_available = [d for d in self.drinks if self.y[d].x > 0.5]

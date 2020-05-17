@@ -20,6 +20,7 @@ class ModelBuilder:
 
         for i in self.ingredients:
             self.model.enforce_ingredients_purchase_available_link(i)
+            self.model.enforce_existing_ingredients(i)
 
         self.model.enforce_number_of_drinks_makeable(self.n)
 
