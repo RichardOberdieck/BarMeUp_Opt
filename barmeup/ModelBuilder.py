@@ -1,4 +1,4 @@
-from ModelContainer import ModelContainer
+from .ModelContainer import ModelContainer
 
 
 class ModelBuilder:

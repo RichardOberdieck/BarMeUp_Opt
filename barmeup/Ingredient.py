@@ -13,3 +13,7 @@ class Ingredient:
 class Drink:
     name: str
     ingredients: [Ingredient]
+
+    def __hash__(self):
+        return self.name.__hash__() + len(self.ingredients) + sum(i.__hash__() for i in self.ingredients)
+

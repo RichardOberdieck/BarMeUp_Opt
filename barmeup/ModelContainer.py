@@ -1,15 +1,15 @@
 import mip
-from Ingredient import Drink, Ingredient
+from .Ingredient import Drink, Ingredient
 
 
 class ModelContainer:
     def __init__(self, ingredients, drinks):
-        self.model = mip.Model("BarMeUp")
+        self.model = mip.Model("BarMeUp", solver_name=mip.CBC)
         self.ingredients = ingredients
         self.drinks = drinks
 
     def create_ingredient_purchase_variable(self):
-        self.x = {i : self.model.add_var(var_type=mip.BINARY) for i in self.ingredients}
+        self.x = {i: self.model.add_var(var_type=mip.BINARY) for i in self.ingredients}
 
     def create_drink_available_variable(self):
         self.y = {d: self.model.add_var(var_type=mip.BINARY) for d in self.drinks}
@@ -18,7 +18,7 @@ class ModelContainer:
         self.z = {i: self.model.add_var(var_type=mip.BINARY) for i in self.ingredients}
 
     def create_ingredient_already_present_variable(self):
-        self.p = {i : self.model.add_var(var_type=mip.BINARY) for i in self.ingredients}
+        self.p = {i: self.model.add_var(var_type=mip.BINARY) for i in self.ingredients}
 
     def set_objective(self):
         self.model.objective = mip.minimize(mip.xsum(self.x[i] for i in self.ingredients))
