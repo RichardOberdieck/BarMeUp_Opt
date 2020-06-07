@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51878420-e58e-489a-96cc-1ab84366e9e4" name="Default Changelist" comment="" />
+    <list default="true" id="51878420-e58e-489a-96cc-1ab84366e9e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ingredient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ingredient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModelBuilder.py" beforeDir="false" afterPath="$PROJECT_DIR$/ModelBuilder.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,9 +58,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="397" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1589700170234">
-      <screen x="0" y="23" width="1440" height="793" />
+    <state x="397" y="792" key="com.intellij.ide.util.TipDialog" timestamp="1591073485634">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="397" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.793@0.23.1440.793" timestamp="1589700170234" />
+    <state x="397" y="792" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1591073485634" />
   </component>
 </project>

@@ -5,7 +5,7 @@ from dataclasses import dataclass
 class Ingredient:
     name: str
     cost: float = 1
-    usage_speed: float = 1
+    shelf_life: float = 1
     is_already_present: bool = False
 
 

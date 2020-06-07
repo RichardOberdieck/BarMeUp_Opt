@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350) (preloaded format=pdflatex 2020.4.28)  10 MAY 2020 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350) (preloaded format=pdflatex 2020.4.28)  8 JUN 2020 00:02
 entering extended mode
 **./description.tex
 (description.tex
@@ -871,7 +871,7 @@ pdftex.map}] [2] (description.aux) )
 Here is how much of TeX's memory you used:
  26020 strings out of 482859
  651009 string characters out of 2950574
- 957630 words of memory out of 3000000
+ 957627 words of memory out of 3000000
  41215 multiletter control sequences out of 15000+200000
  541871 words of font info for 63 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -895,7 +895,7 @@ X/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/oberdieck/Li
 brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/
 cmsy7.pfb></Users/oberdieck/Library/Application Support/MiKTeX/texmfs/install/f
 onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on description.pdf (2 pages, 130794 bytes).
+Output written on description.pdf (2 pages, 130719 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

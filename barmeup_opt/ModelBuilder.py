@@ -2,11 +2,11 @@ from .ModelContainer import ModelContainer
 
 
 class ModelBuilder:
-    def __init__(self, drinks, ingredients, n):
+    def __init__(self, drinks, n):
         self.drinks = drinks
-        self.ingredients = ingredients
+        self.ingredients = set(i for d in drinks for i in d.ingredients)
         self.n = n
-        self.model = ModelContainer(ingredients, drinks)
+        self.model = ModelContainer(self.ingredients, self.drinks)
 
     def _create_variables(self):
         self.model.create_drink_available_variable()
@@ -27,5 +27,6 @@ class ModelBuilder:
     def solve(self):
         self._create_variables()
         self._add_constraints()
+
         self.model.set_objective()
         return self.model.solve()
