@@ -6,6 +6,6 @@ build-backend = "flit_core.buildapi"
 module = "barmeup_opt"
 author = "Richard Oberdieck, Ruben Menke"
 author-email = "r.oberdieck@gmail.com"
-Home-page = "https://github.com/RichardOberdieck/BarMeUp_Opt"
+home-page = "https://github.com/RichardOberdieck/BarMeUp_Opt"
 classifiers = ["License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)"]
 
