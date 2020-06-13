@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51878420-e58e-489a-96cc-1ab84366e9e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Ingredient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModelBuilder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModelContainer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_container.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_container.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../math/description.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../math/description.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
