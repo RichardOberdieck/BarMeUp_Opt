@@ -2,4 +2,4 @@
 
 __version__ = '0.3'
 
-__all__ = ["ModelBuilder", "Ingredient"]
+__all__ = ["model_builder", "domain_models"]
